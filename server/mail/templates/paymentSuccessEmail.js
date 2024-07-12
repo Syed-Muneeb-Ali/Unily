@@ -67,7 +67,7 @@ exports.paymentSuccessEmail = (name, amount, orderId, paymentId) => {
     
     <body>
         <div class="container">
-            <a href="https://unily-edtech-project.vercel.app"><img class="logo" src="https://i.ibb.co/dr4dpcf/Unily-home.jpg"
+            <a href="https://unily-frontend.vercel.app"><img class="logo" src="https://i.ibb.co/dr4dpcf/Unily-home.jpg"
                     alt="unily Logo"></a>
             <div class="message">Course Payment Confirmation</div>
             <div class="body">

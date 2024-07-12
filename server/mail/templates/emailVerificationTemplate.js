@@ -66,7 +66,7 @@ const otpTemplate = (otp) => {
 	
 	<body>
 		<div class="container">
-			<a href="https://unily-edtech-project.vercel.app">
+			<a href="https://unily-frontend.vercel.app">
 			<img class="logo" src="https://i.ibb.co/dr4dpcf/Unily-home.jpg" alt="Unily Logo"></a>
 			<div class="message">OTP Verification Email</div>
 			<div class="body">

@@ -74,7 +74,7 @@ exports.contactUsEmail = (
   
   <body>
       <div class="container">
-          <a href="https://unily-edtech-project.vercel.app"><img class="logo"
+          <a href="https://unily-frontend.vercel.app"><img class="logo"
                   src="https://i.ibb.co/dr4dpcf/Unily-home.jpg" alt="Unily Logo"></a>
           <div class="message">Contact Form Confirmation</div>
           <div class="body">
